@@ -1,6 +1,28 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
-<h3 align="center">Welcome to My GitHub Profile! 🚀 Hello! I'm Amit, an 18-year-old developer with a passion for coding and a keen interest in all things dev. I'm always open to collaborations and excited to learn from others. About Me: Age: 18 Interests: Coding, development, innovation, and problem-solving Goals: To learn, grow, and build amazing things with code Collaborations: Open to working with others on projects and learning from their experiences My Projects: Codi AI: An AI assistant designed to be a friendly buddy, assisting in a variety of tasks and projects. Feel free to browse my repositories and reach out if you're interested in collaborating! Let's build something amazing together! 🚀</h3>
+<h3 align="center">A passionate 18-year-old developer from India</h3>
 
+### 🚀 Welcome to My GitHub Profile!
+
+I'm Amit, an enthusiastic coder with a keen interest in all things dev. Always open to collaborations and excited to learn from others.
+
+### 👨‍💻 About Me
+
+- 🎂 Age: 18
+- 💡 Interests: Coding, development, innovation, and problem-solving
+- 🎯 Goals: To learn, grow, and build amazing things with code
+- 🤝 Collaborations: Open to working with others on projects and learning from their experiences
+
+### 🛠️ My Projects
+
+- **Codi AI**: An AI assistant designed to be a friendly buddy, assisting in a variety of tasks and projects.
+
+Feel free to browse my repositories and reach out if you're interested in collaborating!
+
+### 📫 Get in Touch
+
+- [Your preferred contact method, e.g., Email or LinkedIn profile]
+
+Let's build something amazing together! 🚀
 - 🔭 I’m currently working on Codi AI, an advanced AI assistant project. [codi_ai](codi_ai)
 
 - 🌱 I’m currently learning about advanced AI techniques, including multimodal generative models like CoDi (Composable Diffusion), reinforcement learning, meta-learning, and self-modification algorithms. I'm also deepening my understanding of natural language processing, machine learning, and data management to enhance the capabilities of my AI assistant, Codi. **algorithms , llm , agents ai etc**

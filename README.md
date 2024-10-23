@@ -20,7 +20,7 @@ Feel free to browse my repositories and reach out if you're interested in collab
 
 ### 📫 Get in Touch
 
-- [Your preferred contact method, e.g., Email or LinkedIn profile]
+- [amitshaw96717@gmail.com]
 
 Let's build something amazing together! 🚀
 - 🔭 I’m currently working on Codi AI, an advanced AI assistant project. [codi_ai](codi_ai)
